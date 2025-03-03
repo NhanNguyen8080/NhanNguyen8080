@@ -4,12 +4,10 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various software projects
-- 🌱 I’m constantly learning and exploring new technologies
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about software development, open-source contributions, and technology in general
-- 📫 How to reach me: [Email](mailto:nhannq200@gmail.com)
-- ⚡ Fun fact: I love to play badminton and basketball in my free time.
+- 🔭 I am currently looking for a Backend Developer (.NET) job
+- 🌱 I am constantly learning and exploring new technologies
+- 📫 How to contact me: [Email](mailto:nhannq200@gmail.com)
+- ⚡ Fun Fact: I like to play badminton and basketball in my spare time.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,12 +24,34 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=another-project&theme=radical)](https://github.com/NhanNguyen8080/BadmintonSocialNetwork)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=awesome-project&theme=radical)](https://github.com/NhanNguyen8080/capstone-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=another-project&theme=radical)](https://github.com/NhanNguyen8080/capstone-project-employee)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=another-project&theme=radical)](https://github.com/NhanNguyen8080/BadmintonBookingSystemFE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=another-project&theme=radical)](https://github.com/NhanNguyen8080/PRN221_BookPaymentByCamera)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=another-project&theme=radical)](https://github.com/NhanNguyen8080/Project_SWP391_SuViet_G7)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/NhanNguyen8080/BadmintonSocialNetwork">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=BadmintonSocialNetwork&theme=radical" />
+      </a>
+      <a href="https://github.com/NhanNguyen8080/capstone-project">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=capstone-project&theme=radical" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/NhanNguyen8080/capstone-project-employee">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=capstone-project-employee&theme=radical" />
+      </a>
+      <a href="https://github.com/NhanNguyen8080/ BadmintonBookingSystemFE">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo= BadmintonBookingSystemFE&theme=radical" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/NhanNguyen8080/ PRN221_BookPaymentByCamera">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo= PRN221_BookPaymentByCamera&theme=radical" />
+      </a>
+      <a href="https://github.com/NhanNguyen8080/Project_SWP391_SuViet_G7">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Project_SWP391_SuViet_G7&repo=Project_SWP391_SuViet_G7&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with Me
 
