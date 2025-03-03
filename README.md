@@ -39,12 +39,12 @@ Welcome to my GitHub profile! I'm passionate about software development and love
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=capstone-project-employee&theme=radical" />
       </a>
       <a href="https://github.com/NhanNguyen8080/ BadmintonBookingSystemFE">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo= BadmintonBookingSystemFE&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=BadmintonBookingSystemFE&theme=radical" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/NhanNguyen8080/ PRN221_BookPaymentByCamera">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo= PRN221_BookPaymentByCamera&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanNguyen8080&repo=PRN221_BookPaymentByCamera&theme=radical" />
       </a>
       <a href="https://github.com/NhanNguyen8080/Project_SWP391_SuViet_G7">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Project_SWP391_SuViet_G7&repo=Project_SWP391_SuViet_G7&theme=radical" />
@@ -55,6 +55,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/nhannguyen8080](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-04b109305/))
+- [LinkedIn]([https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-04b109305])
 
 Thanks for visiting my profile! Have a great day! 😄
